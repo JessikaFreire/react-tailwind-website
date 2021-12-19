@@ -1,0 +1,44 @@
+npx create-react-app --template typescript react-tailwind-website
+
+---------------------------
+tailwindcss
+yarn add tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+---------------------------
+react-icons 
+yarn add react-icons 
+
+---------------------------
+react-burger-menu
+yarn add react-burger-menu
+
+---------------------------
+react-responsive
+yarn add react-responsive
+
+---------------------------
+react-responsive-carousel
+yarn add react-responsive-carousel
+
+---------------------------
+react-scroll
+yarn add react-scroll
+
+---------------------------
+twin.macro
+yarn add twin.macro
+
+---------------------------
+styled-components
+yarn add styled-components
+yarn add --dev @types/styled-components
+
+---------------------------
+npx tailwindcss-cli@latest init
+
+---------------------------
+yarn add --dev @types/react-scroll
+
+---------------------------
+yarn add --dev @types/react-burger-menu
